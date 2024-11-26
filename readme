@@ -1,0 +1,5 @@
+I'm spinning the container up with:
+$ docker-compose up -d
+and hooking into the container with:
+$ docker exec -it my_frontend /bin/bash
+
